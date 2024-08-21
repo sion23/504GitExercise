@@ -1,4 +1,7 @@
 def function1(a):
+    """
+    Some comment on what this function does
+    """
     b = dict()
     for c in a:
         if c not in b:
